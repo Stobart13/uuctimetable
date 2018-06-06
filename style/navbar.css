@@ -1,0 +1,40 @@
+.login{
+	text-decoration: none;
+	color: #fff;
+}
+.login:hover{
+	color: #fff;
+	text-decoration: underline;
+}
+.dropdown-item{
+	color: #000;
+}
+.form-inline{
+	list-style: none !important;
+	justify-content: space-between;
+}
+.nav-link a{
+	color: #000;
+}
+#navbarDropdown {
+	color: #fff;
+	padding-top: 25px;
+}
+.dropdown-menu.show {
+	left: -32px;
+}
+
+.dropdown{
+	list-style: none;
+}
+
+#timetable a{
+	color: #fff;
+	padding-top: 25px;
+}
+#timetable:hover{
+	text-decoration: underline;
+}
+#userMenu {
+	float: left !important;
+}

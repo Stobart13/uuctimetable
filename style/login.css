@@ -1,0 +1,27 @@
+body {
+	background-image: url("../images/loginbg.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+#loginCard {
+	background-color: #1a2a4f;
+	margin-top: 160px;
+}
+
+#loginCard img{
+	max-width:25%;
+	margin-left:auto;
+	margin-right: auto;
+	margin-top: 15px;
+}
+
+.register {
+	color: #fff;
+}
+
+.register:hover {
+	color: #fff;
+	text-decoration: underline;
+	list-style: none;
+}
